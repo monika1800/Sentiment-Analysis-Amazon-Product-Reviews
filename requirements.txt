@@ -86,7 +86,7 @@ six==1.12.0
 smart-open==1.8.4
 sortedcontainers==2.1.0
 spacy==2.1.6
-SQLAlchemy==0.7.10
+SQLAlchemy==1.3.6
 sqlalchemy-migrate==0.12.0
 sqlparse==0.3.0
 srsly==0.0.7
